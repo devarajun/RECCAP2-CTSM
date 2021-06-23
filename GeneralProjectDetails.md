@@ -6,9 +6,8 @@ https://gmd.copernicus.org/preprints/gmd-2020-259/
 
 Michael Rawlins  (DOC transport modeling)
 
-Wetland map? (Frans-Jan knows a map)!
+Wetland map? ( https://essd.copernicus.org/preprints/essd-2021-140/ )
 
-Organic soils map ()
+Organic soils map (Eleanor)
 
-https://essd.copernicus.org/preprints/essd-2021-140/
 
