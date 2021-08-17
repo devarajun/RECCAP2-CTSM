@@ -1,0 +1,11 @@
+The main set of RECCAP2 simulations to get going:
+
+Historical simulation:
+·        Historical climate from gfdl-esm4 + historical landuse/Ndep/CO2
+
+Future simulations:
+·        ssp126 climate forcing from gfdl-esm4 + 2015 landuse + ssp126 scenarios of CO2/Ndep
+·        ssp585 climate forcing from gfdl-esm4 + 2015 landuse + ssp585 scenarios of CO2/Ndep
+
+Link for gfdl-esm4 driving data: Input data set: GFDL-ESM4 (isimip.org)
+Can then do the same thing with additional historical driving data (ukesm1-0-ll, mpi-esm1-2-hr, ipsl-cm6a-lr, mri-esm2-0 and with additional ssp370 scenario)
